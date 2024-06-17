@@ -1,4 +1,5 @@
-# Plataforma-Cursos
+# Plataforma deCursos
+<h1>Projeto consiste na aplicação visando aprendizado de conceitos da linguagem java como objetos, classes, herança, polimorfismo, abstração e encapsulameto</h1>
 <h2>Implementação básica de uma plataforma de educação </h2>
 
 <h3> Funcionalidades </h3>
